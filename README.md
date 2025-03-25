@@ -27,6 +27,7 @@ Cartoonified
 ✔️ Simple backgrounds  
 ✔️ Objects with clear edges (cars, animals)  
 
+
 ### ❌ **Bad Results** (Does Not Work Well):
 Original 
 <img width="1278" alt="image1" src="https://github.com/user-attachments/assets/4c6ce92f-ad05-4b92-ac4a-973f90954703" />
