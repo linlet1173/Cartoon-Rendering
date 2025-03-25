@@ -1,6 +1,5 @@
 # Cartoon Rendering
 This is a cartoon rendering project using OpenCV and python.
-# Cartoonify Image using OpenCV
 
 ## Project Description
 This project transforms an input image into a **cartoon style image** using OpenCV. It applies edge detection, color smoothing, and contrast enhancement to create a stylized cartoon effect.
