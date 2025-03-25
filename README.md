@@ -18,7 +18,9 @@ This project transforms an input image into a **cartoon style image** using Open
 ### ✅ **Good Results** (Works Well):
 | Original | Cartoonified |
 |----------|-------------|
-| ![Original](![image5](https://github.com/user-attachments/assets/d275d5ff-7533-4650-b7b6-46440d15d00b)) | ![Cartoon](![cartoon5](https://github.com/user-attachments/assets/f542ff8d-098a-40c2-9f03-f3fe9647ccbb)) |
+| ![Original](![image5](https://github.com/user-attachments/assets/d275d5ff-7533-4650-b7b6-46440d15d00b)
+) | ![Cartoon](![cartoon5](https://github.com/user-attachments/assets/f542ff8d-098a-40c2-9f03-f3fe9647ccbb)
+) |
 #### **Best for:**
 ✔️ Portraits (faces, people)  
 ✔️ High-contrast and bright images  
@@ -28,7 +30,9 @@ This project transforms an input image into a **cartoon style image** using Open
 ### ❌ **Bad Results** (Does Not Work Well):
 | Original | Cartoonified |
 |----------|-------------|
-| ![Original](<img width="1278" alt="image1" src="https://github.com/user-attachments/assets/bd79caa7-aaa4-41fe-8949-321f89cc2941" />)) | ![Cartoon](![cartoon1 (https://github.com/user-attachments/assets/7bc04b1f-a079-4a2b-b830-2f82e57cefd9)) |
+| ![Original](<img width="1278" alt="image1" src="https://github.com/user-attachments/assets/bd79caa7-aaa4-41fe-8949-321f89cc2941" />)
+) | ![Cartoon](![cartoon1 (https://github.com/user-attachments/assets/7bc04b1f-a079-4a2b-b830-2f82e57cefd9)
+) |
 #### **Not Suitable for:**
 ❌ Low-light or dark images  
 ❌ Complex backgrounds with too much texture  
