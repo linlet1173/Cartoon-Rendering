@@ -43,4 +43,4 @@ def cartoonify_image(image_path, output_path):
     cv2.destroyAllWindows()
 
 # Example usage
-cartoonify_image("image1.png", "cartoon1.png")
+cartoonify_image("image.jpg", "cartoon.jpg")
