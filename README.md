@@ -17,10 +17,10 @@ This project transforms an input image into a **cartoon style image** using Open
 ## 📷 Examples
 ### ✅ **Good Results** (Works Well):
 Original 
-| ![Original](![image5](https://github.com/user-attachments/assets/d275d5ff-7533-4650-b7b6-46440d15d00b)
-Cartoonified 
-) | ![Cartoon](![cartoon5](https://github.com/user-attachments/assets/f542ff8d-098a-40c2-9f03-f3fe9647ccbb)
-) |
+![image5](https://github.com/user-attachments/assets/11f44766-2047-43de-840f-058603be1750)
+Cartoonified
+![cartoon5](https://github.com/user-attachments/assets/3d212075-d1e8-49ce-838d-1ef601d189a3)
+
 #### **Best for:**
 ✔️ Portraits (faces, people)  
 ✔️ High-contrast and bright images  
@@ -29,10 +29,10 @@ Cartoonified
 
 ### ❌ **Bad Results** (Does Not Work Well):
 Original 
-| ![Original](<img width="1278" alt="image1" src="https://github.com/user-attachments/assets/bd79caa7-aaa4-41fe-8949-321f89cc2941" />)
+<img width="1278" alt="image1" src="https://github.com/user-attachments/assets/4c6ce92f-ad05-4b92-ac4a-973f90954703" />
+
 Cartoonified 
 ![cartoon1](https://github.com/user-attachments/assets/660139b7-ddbc-4e44-a2e6-2f52d17cd9a4)
-
 
 #### **Not Suitable for:**
 ❌ Low-light or dark images  
